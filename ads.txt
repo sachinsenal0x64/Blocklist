@@ -2,3 +2,16 @@
 ||ggpht.com^
 ||gvt1.com^
 ||play.googleapis.com^
+||igg.com^
+||android.clients.google.com^
+||clients1.google.com^
+||clients2.google.com^
+||clients3.google.com^
+||clients4.google.com^
+||clients5.google.com^
+||clients6.google.com^
+||play.google.com^
+||ggpht.com^
+||play.googleapis.com^
+||gvt1.com^
+
