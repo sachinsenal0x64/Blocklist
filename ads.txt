@@ -10,8 +10,5 @@
 ||clients4.google.com^
 ||clients5.google.com^
 ||clients6.google.com^
-||play.google.com^
-||ggpht.com^
-||play.googleapis.com^
-||gvt1.com^
+
 
